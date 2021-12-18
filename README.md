@@ -385,7 +385,7 @@ computer console.
 
 ## Credits
 
-- Thanks to [Ryan Fortner](https://github.com/ryanfortner) for the grammar fix
+- Thank to [Ryan Fortner](https://github.com/ryanfortner) for the grammar fix
 
 ## License
 
